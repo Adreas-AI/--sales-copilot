@@ -1,6 +1,6 @@
 # AI Sales Copilot: Intelligent CRM & Follow-Up Automation
 
-[![CI](https://github.com/Adreas-AI/ai-sales-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/Adreas-AI/ai-sales-copilot/actions/workflows/ci.yml)
+[![CI](https://github.com/Adreas-AI/--sales-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/Adreas-AI/--sales-copilot/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![TypeScript](https://img.shields.io/badge/typescript-5-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
